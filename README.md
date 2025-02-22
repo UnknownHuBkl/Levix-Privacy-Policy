@@ -1,7 +1,3 @@
-Here's the **Privacy Policy for Levix**, keeping the meaning the same while making it fit your bot's branding and style.  
-
----
-
 # Levix Privacy Policy
 
 Thank you for choosing Levix! This Privacy Policy explains how we collect, use, and protect your data when you use our service. By using Levix, you agree to the terms outlined in this policy.
